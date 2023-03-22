@@ -1,0 +1,15 @@
+image_save_iter: 1000
+snapshot_save_iter: 5000
+
+max_iter: 10010
+batch_size: 16
+beta1: 0.5
+beta2: 0.999
+lr: 0.0001
+
+num_workers: 8
+crop_image_height: 256
+crop_image_width: 256
+dataroot: dataset_pics/train
+testroot: dataset_pics/test
+noiseroot: sample_noise

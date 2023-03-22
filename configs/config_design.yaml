@@ -1,0 +1,16 @@
+image_save_iter: 1000
+snapshot_save_iter: 5000
+
+max_iter: 50010
+batch_size: 8
+beta1: 0.5
+beta2: 0.999
+lr: 0.001
+gain: 1
+
+num_workers: 8
+crop_image_height: 256
+crop_image_width: 256
+dataroot: dataset_split/train
+testroot: dataset_split/test
+noiseroot: /tempssd/OP/darkframes/npyfile
