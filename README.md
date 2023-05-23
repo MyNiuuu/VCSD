@@ -86,10 +86,12 @@ to test the enhancement result.
 
 If you find this repo useful, please consider citing:
 ```
-@article{niu2023visibility,
-    title={Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark}, 
-    author={Muyao Niu and Zhuoxiao Li and Zhihang Zhong and Yinqiang Zheng},
-    journal={arXiv preprint arXiv:2303.11642},
-    year={2023}
+@InProceedings{Niu_2023_CVPR,
+    author    = {Niu, Muyao and Li, Zhuoxiao and Zhong, Zhihang and Zheng, Yinqiang},
+    title     = {Visibility Constrained Wide-Band Illumination Spectrum Design for Seeing-in-the-Dark},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {13976-13985}
 }
 ```
