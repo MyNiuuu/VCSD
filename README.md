@@ -1,12 +1,12 @@
 # VCSD
 
-Welcome! This is the official PyTorch implementation for our CVPR 2023 paper: 
+Welcome! This is the official PyTorch implementation for our paper: 
 
-**Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark**
+🤖 [CVPR2023] [**Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark**](https://openaccess.thecvf.com/content/CVPR2023/papers/Niu_Visibility_Constrained_Wide-Band_Illumination_Spectrum_Design_for_Seeing-in-the-Dark_CVPR_2023_paper.pdf)
 
 by Muyao Niu, Zhuoxiao Li, Zhihang Zhong, and Yinqiang Zheng.
 
-[paper](https://arxiv.org/abs/2303.11642)
+🔗 [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Niu_Visibility_Constrained_Wide-Band_Illumination_Spectrum_Design_for_Seeing-in-the-Dark_CVPR_2023_paper.pdf), [arxiv](https://arxiv.org/abs/2303.11642)
 
 > In this paper, we try to robustify NIR2RGB translation by designing the optimal spectrum of auxiliary illumination in the wide-band VIS-NIR range, while keeping visual friendliness. Our core idea is to quantify the visibility constraint implied by the human vision system and incorporate it into the design pipeline. By modeling the formation process of images in the VIS-NIR range, the optimal multiplexing of a wide range of LEDs is automatically designed in a fully differentiable manner, within the feasible region defined by the visibility constraint. We also collect a substantially expanded VIS-NIR hyperspectral image dataset for experiments by using a customized 50-band filter wheel. Experimental results show that the task can be significantly improved by using the optimized wide-band illumination than using NIR only.
 
