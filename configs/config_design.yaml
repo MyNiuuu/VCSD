@@ -13,4 +13,4 @@ crop_image_height: 256
 crop_image_width: 256
 dataroot: dataset_split/train
 testroot: dataset_split/test
-noiseroot: /tempssd/OP/darkframes/npyfile
+noiseroot: ./sample_noise
